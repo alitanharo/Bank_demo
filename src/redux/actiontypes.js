@@ -1,0 +1,9 @@
+export const DO_LOGIN = " DO_LOGIN";
+
+export const ADD_MESSAGE = "ADD_MESSAGE";
+export const INSERT_USERNAME = "INSERT_USERNAME";
+export const INSERT_PASSWORD = "INSERT_PASSWORD";
+export const INSERT_EMAIL = "INSERT_EMAIL";
+export const ADD_CUSTOMER = "ADD_CUSTOMER";
+export const SET_SENDER_BALANC = "SET_SENDER_BALANC";
+export const SET_RECEIVER_BALANC = "SET_SENDER_BALANC";
